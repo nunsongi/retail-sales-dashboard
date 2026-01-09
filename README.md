@@ -108,7 +108,7 @@ Este proyecto me permitió practicar y demostrar:
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: 
+- GitHub: https://github.com/nunsongi 
 
 ## 📄 Licencia
 
